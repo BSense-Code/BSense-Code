@@ -31,9 +31,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSense-Code&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSense-Code&count_private=true&theme=tokyonight)
 
-[![BSense's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSense-Code&hide=prs&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![BSense's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSense-Code&hide=prs&show_icons=true&count_private=true&theme=tokyonight)
 
 [website]: https://bsense.store
 [a1-discord]: https://discord.gg/DAgVnnB6M6

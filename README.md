@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm BSense</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&center=true&multiline=true&width=1250&height=100&lines=Self-taught+developer+and+student;from+the+United+Kingdom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&center=true&multiline=true&width=1250&height=100&lines=Programmer+from+the+United+Kingdom)](https://git.io/typing-svg)
 
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently developing a multifunctional discord bot called: [A1][a1-discord]!
-- 🌱 I’m currently learning JavaScript, C# and C++
+- 🌱 I’m currently learning JavaScript and C#
 - 🥅 Goals: Create a successful multifunctional discord bot in JavaScript with a web dashboard and database.
 
 <h3 align="left">Portfolio and socials:</h3>
@@ -37,7 +37,3 @@
 
 [website]: https://bsense.store
 [a1-discord]: https://discord.gg/DAgVnnB6M6
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr

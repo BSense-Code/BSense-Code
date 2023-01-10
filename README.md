@@ -4,14 +4,14 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently developing a multifunctional discord bot called: [A1][a1-discord]!
-- 🌱 I’m currently learning JavaScript and C#
+<!-- - 🔭 I’m currently developing a multifunctional discord bot called: [A1][a1-discord]! -->
+- 🔭 I’m currently developing a Cyber Defence Assement Tool.
+- 🌱 I’m currently learning backend development in JavaScript.
 - 🥅 Goals: Create a successful multifunctional discord bot in JavaScript with a web dashboard and database.
 
 <h3 align="left">Portfolio and socials:</h3>
 
-
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fbsense-code.github.io)](https://bsense-code.github.io)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fbsense-code.github.io)](https://bsense-code.github.io) <img src="https://komarev.com/ghpvc/?username=bsense-code&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bsense-code" />
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/BSense?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBSense6&screen_name=BSense6) -->
 
 <h3 align="left">Languages and Tools:</h3>

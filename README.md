@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently developing a multifunctional discord bot called: [A1][a1-discord]! -->
 - 🔭 I’m currently developing a Cyber Defence Assement Tool.
 - 🌱 I’m currently learning backend development in JavaScript.
-- 🥅 Goals: Create a successful multifunctional discord bot in JavaScript with a web dashboard and database.
+- 🥅 Goals: Create a successful multifunctional discord bot in JavaScript with a web dashboard.
 
 <h3 align="left">Portfolio and socials:</h3>
 
@@ -16,15 +16,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<!-- <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> -->
-<!-- <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Sublime Text" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+
 
 <br />
 <br />

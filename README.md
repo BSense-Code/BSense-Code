@@ -5,7 +5,7 @@
 <h3 align="left">About me:</h3>
 
 <!-- - 🔭 I’m currently developing a multifunctional discord bot called: [A1][a1-discord]! -->
-- 🔭 I’m currently developing a Cyber Defence Assement Tool.
+- 🔭 I’m currently developing a Cyber Defence Assessment Tool.
 - 🌱 I’m currently learning backend development in JavaScript.
 - 🥅 Goals: Create a successful multifunctional discord bot in JavaScript with a web dashboard.
 

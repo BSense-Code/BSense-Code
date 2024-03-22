@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BSense</h1>
+<h1 align="center">Hi 👋, I'm Will</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&center=true&multiline=true&width=1250&height=100&lines=Programmer+from+the+United+Kingdom)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Portfolio and socials:</h3>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fbsense-code.github.io)](https://bsense-code.github.io) <!-- <img src="https://komarev.com/ghpvc/?username=bsense-code&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bsense-code" /> -->
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fw1hud.github.io)](https://w1hud.github.io) <!-- <img src="https://komarev.com/ghpvc/?username=w1hud&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="w1hud" /> -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/BSense?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBSense6&screen_name=BSense6) -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,9 +32,9 @@
 
 ---
 
-[![My Top Languages](https://github-readme-stats.bsense.vercel.app/api/top-langs/?username=BSense-Code&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.bsense.vercel.app/api/top-langs/?username=w1hud&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![BSense's GitHub stats](https://github-readme-stats.bsense.vercel.app/api?username=BSense-Code&hide=prs&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![BSense's GitHub stats](https://github-readme-stats.bsense.vercel.app/api?username=w1hud&hide=prs&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://bsense.github.io
+[website]: https://w1hud.github.io
 [a1-discord]: https://discord.gg/DAgVnnB6M6
